@@ -1,0 +1,20 @@
+.ArticleDetailContainer{
+    background-color: #ececec;
+    height:100%;
+    border-radius: 25px;
+    min-height:calc(100vh - 59px) ; 
+    opacity: 1; 
+}
+.ArticleDetailContainer #title{
+   font-size: x-large;
+}
+.ArticleDetailContainer #deleteButton{
+    align-self:center;
+    margin-left: auto;
+}
+
+.ArticleDetailContainer #content{
+    text-align:left;
+    border-top: 1px solid #ccc;
+
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^18.0.0",
+    "mongodb": "^4.7.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.18.2"
+  }
+}
